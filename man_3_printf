@@ -2,7 +2,6 @@
 
 .SH NAME
 .B _printf\fR \- formatted output conversion
-
 .SH SYNOPSIS
 .B #include \fB"main.h"
 
